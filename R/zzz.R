@@ -1,7 +1,7 @@
 .onAttach <- function(...) {
   packageStartupMessage(
     emo::ji("beers"),
-    crayon::white(" ezxfig "),
-    crayon::cyan(packageVersion("ezxfig"))
+    crayon::white(" ezexplore "),
+    crayon::cyan(packageVersion("ezexplore"))
   )
 }
